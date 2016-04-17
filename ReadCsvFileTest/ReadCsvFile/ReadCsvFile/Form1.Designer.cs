@@ -102,29 +102,29 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(443, 349);
+            this.button1.Location = new System.Drawing.Point(428, 342);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(85, 28);
+            this.button1.Size = new System.Drawing.Size(131, 35);
             this.button1.TabIndex = 7;
-            this.button1.Text = "button1";
+            this.button1.Text = "загрузка файла 2";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(534, 350);
+            this.button3.Location = new System.Drawing.Point(565, 342);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(91, 28);
+            this.button3.Size = new System.Drawing.Size(129, 35);
             this.button3.TabIndex = 9;
-            this.button3.Text = "button3";
+            this.button3.Text = "Обработка 1 файла";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(631, 350);
+            this.button4.Location = new System.Drawing.Point(700, 342);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(91, 28);
+            this.button4.Size = new System.Drawing.Size(133, 33);
             this.button4.TabIndex = 10;
             this.button4.Text = "button4";
             this.button4.UseVisualStyleBackColor = true;
