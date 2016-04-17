@@ -1,0 +1,18 @@
+c:\users\elena\documents\visual studio 2013\Projects\ReadCsvFile\ReadCsvFile\bin\Debug\ReadCsvFile.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\ReadCsvFile\ReadCsvFile\bin\Debug\ReadCsvFile.exe
+c:\users\elena\documents\visual studio 2013\Projects\ReadCsvFile\ReadCsvFile\bin\Debug\ReadCsvFile.pdb
+c:\users\elena\documents\visual studio 2013\Projects\ReadCsvFile\ReadCsvFile\obj\Debug\ReadCsvFile.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\ReadCsvFile\ReadCsvFile\obj\Debug\ReadCsvFile.Form1.resources
+c:\users\elena\documents\visual studio 2013\Projects\ReadCsvFile\ReadCsvFile\obj\Debug\ReadCsvFile.Properties.Resources.resources
+c:\users\elena\documents\visual studio 2013\Projects\ReadCsvFile\ReadCsvFile\obj\Debug\ReadCsvFile.csproj.GenerateResource.Cache
+c:\users\elena\documents\visual studio 2013\Projects\ReadCsvFile\ReadCsvFile\obj\Debug\ReadCsvFile.exe
+c:\users\elena\documents\visual studio 2013\Projects\ReadCsvFile\ReadCsvFile\obj\Debug\ReadCsvFile.pdb
+D:\OneDrive\Documents\Projects\Credit Scoring\ReadCsvFileTest\ReadCsvFile\ReadCsvFile\bin\Debug\ReadCsvFile.exe.config
+D:\OneDrive\Documents\Projects\Credit Scoring\ReadCsvFileTest\ReadCsvFile\ReadCsvFile\obj\Debug\ReadCsvFile.exe
+D:\OneDrive\Documents\Projects\Credit Scoring\ReadCsvFileTest\ReadCsvFile\ReadCsvFile\obj\Debug\ReadCsvFile.pdb
+D:\OneDrive\Documents\Projects\Credit Scoring\ReadCsvFileTest\ReadCsvFile\ReadCsvFile\bin\Debug\ReadCsvFile.exe
+D:\OneDrive\Documents\Projects\Credit Scoring\ReadCsvFileTest\ReadCsvFile\ReadCsvFile\bin\Debug\ReadCsvFile.pdb
+D:\OneDrive\Documents\Projects\Credit Scoring\ReadCsvFileTest\ReadCsvFile\ReadCsvFile\obj\Debug\ReadCsvFile.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documents\Projects\Credit Scoring\ReadCsvFileTest\ReadCsvFile\ReadCsvFile\obj\Debug\ReadCsvFile.Form1.resources
+D:\OneDrive\Documents\Projects\Credit Scoring\ReadCsvFileTest\ReadCsvFile\ReadCsvFile\obj\Debug\ReadCsvFile.Properties.Resources.resources
+D:\OneDrive\Documents\Projects\Credit Scoring\ReadCsvFileTest\ReadCsvFile\ReadCsvFile\obj\Debug\ReadCsvFile.csproj.GenerateResource.Cache
